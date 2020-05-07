@@ -1,1 +1,3 @@
 # Sanctuary
+
+![](sanctuary-logo.png)
